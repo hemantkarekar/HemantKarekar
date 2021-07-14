@@ -1,21 +1,30 @@
-### Hi there 👋, here's the list of **Repositories**:
+_Last updated on July 14, 2021_
 
-## 🌟 Frequent Repositories:
+### Hi there 👋, here are the links to all the completed projects and concept ideas to my future and ongoing projects.
 
-🔹 [Help Line Web App](https://github.com/HemantKarekar/HelpLineWebApp)
+# List of **Repositories**:
+## 🌟 Recent:
 
-🔹 [Flutter App](https://github.com/HemantKarekar/FlutterApp)
-
+🔹 [Help Line Web App](https://github.com/HemantKarekar/HelpLineWebApp) 
+🔹 [Flutter App](https://github.com/HemantKarekar/FlutterApp) 
 🔹 [React Applications](https://github.com/HemantKarekar/ReactApplications)
 
-## 💼 Other Repositories
+## 💼 Other Repositories:
+
+🔹 [Poster Creator](https://github.com/HemantKarekar/PosterCreator)
+
+🔹 [Virtual Card](https://github.com/HemantKarekar/VirtualCard)
+
+🔹 [Calendar](https://github.com/HemantKarekar/Calendar)
 
 ## 🌐 Contact Information
 
-🔹 
+🔹 Instagram - [@thehxmxnt](https://www.instagram.com/thehxmxnt/)
 
-🔹 
+🔹 LinkedIn - [@hemantkarekar](https://www.linkedin.com/in/hemantkarekar/)
 
-🔹 
+🔹 Twitter - [@hemantkarekar7](https://twitter.com/hemantkarekar7)
 
-🔹 
+🔹 YouTube - []()
+
+🔹 Website - []()
