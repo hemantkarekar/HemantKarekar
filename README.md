@@ -7,7 +7,7 @@ A passionate PHP & Python Developer from India
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemantkarekar)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/hemantkarekar1" target="blank"><img src="https://img.shields.io/twitter/follow/hemantkarekar1?logo=twitter&style=for-the-badge" alt="hemantkarekar1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hemantkarekar7" target="blank"><img src="https://img.shields.io/twitter/follow/hemantkarekar7?logo=twitter&style=for-the-badge" alt="hemantkarekar7" /></a> </p>
 
 - 🔭 I’m currently working on [ERP Software](https://github.com/maanv-group/billing-software)
 
@@ -48,7 +48,7 @@ A passionate PHP & Python Developer from India
 # Connect With Me
 
 <a href="https://dev.to/hemantkarekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hemantkarekar" height="30" width="40" /></a>
-<a href="https://twitter.com/hemantkarekar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemantkarekar1" height="30" width="40" /></a>
+<a href="https://twitter.com/hemantkarekar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemantkarekar7" height="30" width="40" /></a>
 <a href="https://instagram.com/thehxmxnt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thehxmxnt" height="30" width="40" /></a>
 </p>
 
